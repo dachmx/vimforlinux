@@ -10,10 +10,9 @@ call pathogen#helptags()
 nnoremap <leader>v <Plug>TaskList
 
 
-nmap <F4> :TagbarToggle<CR>
+nmap <F3> :TagbarToggle<CR>
 let g:tagbar_width = 40
 autocmd VimEnter * nested :call tagbar#autoopen(1)
-let g:tagbar_left = 1
 let g:tagbar_right = 1 
 
 set nu
