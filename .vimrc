@@ -7,6 +7,10 @@ filetype plugin indent on
 
 call pathogen#helptags()
 
+if has('mouse') 
+	set mouse-=a
+endif
+
 nnoremap <leader>v <Plug>TaskList
 
 
