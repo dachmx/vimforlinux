@@ -32,8 +32,10 @@ let g:NERDTreeDirArrowCollapsible = 'k'
 set mouse=nv 
 set cursorline
 
+"set background=light
 set background=dark
-colorscheme solarized
+colorscheme evening
+"colorscheme solarized
 
 "powerline{
 set guifont=PowerlineSymbols\ for\ Powerline
