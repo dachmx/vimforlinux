@@ -21,3 +21,10 @@ sudo apt-get install cscope
 
 #### add new plugin
  git submodule add @gitaddress
+ 
+ 
+ ## some tips
+ 
+ 
+ #### cscope use doc
+ vi/vim使用进阶: 程序员的利器 – cscope:http://easwy.com/blog/archives/advanced-vim-skills-cscope/
