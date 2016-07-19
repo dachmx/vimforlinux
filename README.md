@@ -12,8 +12,12 @@ git submodule update --init --recursive
 mv vimforlinux .vim
 
 
-#### download and install ctags (for ubuntu)
+#### download and install ctags, cscope etc. (for ubuntu)
 sudo apt-get install exuberant-ctags
-
+sudo apt-get install cscope
 
  or you can input "ctags" on the command line, and the install code will be show 
+
+
+#### add new plugin
+ git submodule add @gitaddress

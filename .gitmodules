@@ -55,3 +55,6 @@
 [submodule "bundle/vim-nerdtree-tabs"]
 	path = bundle/vim-nerdtree-tabs
 	url = https://github.com/jistr/vim-nerdtree-tabs.git
+[submodule "bundle/cscope.vim"]
+	path = bundle/cscope.vim
+	url = https://github.com/vim-scripts/cscope.vim
