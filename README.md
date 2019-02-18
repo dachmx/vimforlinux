@@ -2,7 +2,7 @@
 
 #### 1.clone the repo
 
-git clone https://github/dachmx/vimforlinux.git
+git clone https://github.com/dachmx/vimforlinux.git
 
 
 #### update submodule
