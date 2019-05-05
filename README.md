@@ -1,4 +1,4 @@
-##Install
+## Install
 
 #### 1.clone the repo
 
@@ -22,9 +22,9 @@ mv ~/.vim/.vimrc ~/
 
 #### download and install ctags, cscope etc. (for ubuntu)
 
-sudo apt-get install exuberant-ctags
+sudo apt install exuberant-ctags
 
-sudo apt-get install cscope
+sudo apt install cscope
 
  or you can input "ctags" on the command line, and the install code will be show 
 
